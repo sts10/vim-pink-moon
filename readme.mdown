@@ -1,0 +1,29 @@
+# Pink Moon, a colorscheme for Vim/Neovim
+
+![Pink Moon, iTerm2, Neovim, Ruby](pink-moon-ruby.png)
+
+## Installation
+
+Option 1: Install via plugin manager (like [vim-plug](https://github.com/junegunn/vim-plug))
+
+1. Add `Plug 'sts10/vim-pink-moon'` as a plugin in your vimrc
+2. Run `:PlugInstall`
+3. Put `colorscheme pink-moon` and `set background=dark` in your `vimrc`. 
+
+Option 2: Manual installation
+
+1. Clone or download this repo.
+2. Move `colors/pink-moon.vim` into your `~/.vim/colors` directory. 
+3. Put `colorscheme pink-moon` and `set background=dark` in your `vimrc`. 
+
+The font in the screenshot above is [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Download)
+
+## Inspiration
+
+[This Reddit post](https://www.reddit.com/r/unixporn/comments/7638b7/budgie_i_really_really_like_your_name/?st=j9ro3ovb&sh=e3181cb6)
+
+## Getting True HEX Colors
+
+Vim-Pink-Moon has HEX color codes in it, so it works well with GVim (including [MacVim](https://github.com/macvim-dev/macvim/releases/)), as well as [Neovim](https://github.com/neovim/neovim) + terminals that have true color support. 
+
+If you're using [Neovim](https://github.com/neovim/neovim) and macOS and having trouble with getting the colors in the screenshot above to appear for you, I've got [a blog post](http://sts10.github.io/blog/2015/10/24/true-hex-colors-with-neovim-and-iterm2/) explaining how to get HEX colors in iTerm2 using Neovim.
