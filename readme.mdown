@@ -20,7 +20,7 @@ The font in the screenshot above is [Deja Vu Sans Mono](http://dejavu-fonts.org/
 
 ## Inspiration
 
-[This Reddit post](https://www.reddit.com/r/unixporn/comments/7638b7/budgie_i_really_really_like_your_name/?st=j9ro3ovb&sh=e3181cb6)
+Mostly [this Reddit post](https://www.reddit.com/r/unixporn/comments/7638b7/budgie_i_really_really_like_your_name/?st=j9ro3ovb&sh=e3181cb6), though I ended up picking the colors mostly independently.
 
 ## Getting True HEX Colors
 
