@@ -1,4 +1,4 @@
-" Pink Moon Theme
+" Orange Moon Theme
 " after install, remember to `set background=dark`
 
 " dark theme background
@@ -10,13 +10,15 @@ let s:gui02 = "434852"
 
 " salmon = E9967A
 " pink = FBC4C1
-" teal = 608DAB
+" blue = 5D7EA3
 " sea light blue = 9DB1C7
 " light gold = fcf4ae
 " starlight white = F0F8FF
 
+" maybe used?
+" teal = 608DAB
+
 " unused currently
-" blue = 5D7EA3
 " sea green 80A78C or B4EEB4 or 8fbc8f
 " dark gold (eh) = f7cd4f 
 " slate = 5F7C99
@@ -35,11 +37,11 @@ let s:gui06 = "111111"
 " not sure
 let s:gui07 = "cccccc"
 " let and instance var declations
-let s:gui08 = "D08785"
+let s:gui08 = "E9967A"
 
 " digits, boolean, some CSS (was DAB teal)
-let s:gui09 = "608DAB"
-" class names
+let s:gui09 = "5D7EA3"
+" func var orange
 let s:gui0A = "Fbc4c1"
 " strings
 let s:gui0B = "fcf4ae"
@@ -47,10 +49,10 @@ let s:gui0B = "fcf4ae"
 
 " hex colors (CSS), some commas
 let s:gui0C = "FCF4AE"
-" methods when defined
+" class names
 let s:gui0D = "FBC4C1" 
 " if, else, def 
-let s:gui0E = "608DAB"
+let s:gui0E = "5D7EA3"
 
 let s:gui0F = "608DAB"
 
@@ -142,7 +144,7 @@ endif
 " Theme setup
 hi clear
 syntax reset
-let g:colors_name = "pink-moon"
+let g:colors_name = "orange-moon"
 
 " Highlighting function
 fun <sid>hi(group, guifg, guibg, ctermfg, ctermbg, attr)
