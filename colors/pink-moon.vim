@@ -2,7 +2,7 @@
 " after install, remember to `set background=dark`
 
 " dark theme background
-let s:gui00 = "2F343F"
+let s:gui00 = "2a2e38"
 " line number background, file explorer selection
 let s:gui01 = "333C47"
 " file address background, visual selection
@@ -57,7 +57,7 @@ let s:gui0F = "608DAB"
 
 " There are colors for Neovim's terminal emulator
 if has("nvim")
-  let g:terminal_color_0 = "#333C47"
+  let g:terminal_color_0 = "#2a2e38"
   let g:terminal_color_1 = "#9dd6f4"
   let g:terminal_color_2 = "#6E7B87"
   let g:terminal_color_3 = "#5F7C99"
@@ -73,9 +73,9 @@ if has("nvim")
   let g:terminal_color_13 = "#5673BE" 
   let g:terminal_color_14 = "#5673BE"
   let g:terminal_color_15 = "#5673BE"
-  let g:terminal_color_16 ="#333C47"
-  let g:terminal_color_background="#333C47"
-  let g:terminal_color_foreground="#eee"
+  let g:terminal_color_16 ="#2a2e38"
+  let g:terminal_color_background="#2a2e38"
+  let g:terminal_color_foreground="#F0F8FF"
 endif
 
 " Terminal color definitions
