@@ -1,4 +1,4 @@
-" Pink Moon Theme
+" Yellow Moon Theme -- an older version of Pink Moon theme
 
 hi clear
 
@@ -6,7 +6,7 @@ if exists('syntax_on')
   syntax reset
 endif
 
-let g:colors_name = "pink-moon"
+let g:colors_name = "yellow-moon"
 set background=dark
 
 " dark theme background

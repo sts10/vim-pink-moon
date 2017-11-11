@@ -6,11 +6,13 @@
 
 ## Installation
 
-Option 1: Install via plugin manager (like [vim-plug](https://github.com/junegunn/vim-plug))
+Option 1: Install via plugin manager [vim-plug](https://github.com/junegunn/vim-plug) 
 
-1. Add `Plug 'sts10/vim-pink-moon'` as a plugin in your vimrc
+1. Add `Plug 'sts10/vim-pink-moon'` as a plugin in your Vim config file (either `vimrc` or `init.vim` if using Neovim)
 2. Run `:PlugInstall`
-3. Put `colorscheme pink-moon` and `set background=dark` in your `vimrc`. 
+3. Put `colorscheme pink-moon` in your Vim config file. vim-pink-moon should run `set background=dark` for you.
+
+(A similar procedure should work with other plugin managers.)
 
 Option 2: Manual installation
 
@@ -18,9 +20,11 @@ Option 2: Manual installation
 2. Move `colors/pink-moon.vim` into your `~/.vim/colors` directory. 
 3. Put `colorscheme pink-moon` and `set background=dark` in your `vimrc`. 
 
-The font in the screenshot above is [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Download)
+The font in the screenshots above is [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Download)
 
-## Inspiration
+## Process/Inspiration
+
+I'm still tweaking with this colorscheme quite a bit, so apologies if you liked an older version more. An older version is saved in this repo as `yellow-moon`. Also, feel free to submit issues and pull requests.
 
 I liked the vibe of [this setup](https://imgur.com/a/5DSV6) (which I found thanks to [this Reddit post](https://www.reddit.com/r/unixporn/comments/7638b7/budgie_i_really_really_like_your_name/?st=j9ro3ovb&sh=e3181cb6)), though I ended up picking most if not all of the colors independently.
 
