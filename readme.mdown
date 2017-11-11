@@ -1,6 +1,8 @@
 # Pink Moon, a colorscheme for Vim/Neovim
 
-![Pink Moon, iTerm2, Neovim, Ruby](pink-moon-ruby.png)
+![Pink Moon, iTerm2, Neovim, Ruby](img/pink-moon-ruby.png)
+
+![Pink Moon, iTerm2, Neovim, HTML and CSS](img/pink-moon-frontend.png)
 
 ## Installation
 
