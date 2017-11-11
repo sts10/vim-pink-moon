@@ -319,9 +319,9 @@ call <sid>hi("DiffRemoved",  s:salmon, s:newmoon, s:cterm08, s:cterm00, "")
 call <sid>hi("rubyAttribute",               s:pink, "", s:cterm0D, "", "")
 call <sid>hi("rubyConstant",                s:pink, "", s:cterm0A, "", "")
 call <sid>hi("rubyInterpolation",           s:pink, "", s:cterm0B, "", "")
-call <sid>hi("rubyInterpolationDelimiter",  s:salmon, "", s:cterm0F, "", "")
+call <sid>hi("rubyInterpolationDelimiter",  s:teal, "", s:cterm0F, "", "")
 call <sid>hi("rubyRegexp",                  s:light_gold, "", s:cterm0C, "", "")
-call <sid>hi("rubySymbol",                  s:light_gold, "", s:cterm0B, "", "")
+call <sid>hi("rubySymbol",                  s:salmon, "", s:cterm0B, "", "")
 call <sid>hi("rubyStringDelimiter",         s:light_gold, "", s:cterm0B, "", "")
 
 " PHP highlighting
