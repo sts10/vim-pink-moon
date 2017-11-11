@@ -1,17 +1,13 @@
 " Pink Moon Theme
-let g:colors_name = "pink-moon"
 
-if !has('gui_running') && &t_Co < 256
-  finish
-endif
-
-set background=dark
 hi clear
 
 if exists('syntax_on')
   syntax reset
 endif
 
+let g:colors_name = "pink-moon"
+set background=dark
 
 " dark theme background
 let s:newmoon = "2a2e38"
