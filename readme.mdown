@@ -20,6 +20,8 @@ Option 2: Manual installation
 2. Move `colors/pink-moon.vim` into your `~/.vim/colors` directory. 
 3. Put `colorscheme pink-moon` and `set background=dark` in your `vimrc`. 
 
+## Font in screenshots
+
 The font in the screenshots above is [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Download)
 
 ## Process/Inspiration
