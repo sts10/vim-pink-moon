@@ -52,7 +52,7 @@ If you want to make your [Slack](https://slack.com/) theme match Pink Moon, go t
 
 ## More screenshots 
 
+![A screenshot of some Ruby code, as color-highlighted by the Pink Moon colorscheme, using the font JetBrains Mono](img/pink-moon-markdown.png)
 
 ![A screenshot of some Ruby code, as color-highlighted by the Pink Moon colorscheme, using the font DejaVu Sans Mono](img/pink-moon-ruby.png)
 
-![A screenshot of some Ruby code, as color-highlighted by the Pink Moon colorscheme, using the font JetBrains Mono](img/pink-moon-markdown.png)
