@@ -16,7 +16,8 @@ Option 1: Install via plugin manager [vim-plug](https://github.com/junegunn/vim-
 
 Option 2: Manual installation
 
-1. Copy scheme to `~/.vim/colors` with: `curl https://raw.githubusercontent.com/sts10/vim-pink-moon/master/colors/pink-moon.vim >> ~/.vim/colors/pink-moon.vim`
+1. Download the scheme: `curl -O https://raw.githubusercontent.com/sts10/vim-pink-moon/master/colors/pink-moon.vim`
+2. move the scheme to `~/.vim/colors`: `mkdir -p ~/.vim/colors & mv pink-moon.vim ~/.vim/colors/`
 3. Put `colorscheme pink-moon` and `set background=dark` in your `vimrc`. 
 
 The font in the screenshots above is [Deja Vu Sans Mono](http://dejavu-fonts.org/wiki/Download)
